@@ -56,7 +56,7 @@ TARGET_USES_MKE2FS := true
 # TWRP Configuration
 TW_THEME := portrait_hdpi
 # TW_DEVICE_VERSION := 0 UA
-TW_DEVICE_VERSION := Th3On3
+TW_DEVICE_VERSION := th3on3
 TARGET_RECOVERY_FSTAB := device/asus/grouper/fstab.grouper
 RECOVERY_SDCARD_ON_DATA := true
 BOARD_HAS_NO_REAL_SDCARD := true
